@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design Homepage",
+      "description": "Create wireframes and mockups for the homepage",
+      "status": "todo",
+      "priority": "high",
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Setup Redux Store",
+      "description": "Configure Redux Toolkit with necessary slices",
+      "status": "inProgress",
+      "priority": "high",
+      "createdAt": "2024-01-15T11:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Write Unit Tests",
+      "description": "Add test coverage for components",
+      "status": "done",
+      "priority": "medium",
+      "createdAt": "2024-01-14T09:00:00.000Z"
+    },
+    {
+      "title": "Gunjan",
+      "description": "Hello",
+      "status": "inProgress",
+      "priority": "medium",
+      "id": "1761469812754",
+      "createdAt": "2025-10-26T09:10:12.754Z"
+    },
+    {
+      "title": "Go to walk this sunday ",
+      "description": "d",
+      "status": "todo",
+      "priority": "low",
+      "id": "1761469834826",
+      "createdAt": "2025-10-26T09:10:34.826Z"
+    }
+  ]
+}
